@@ -10,11 +10,14 @@
 
 </div>
 
-```HTML
-<video width="320" height="240" controls>
-    <source src="assets\觅迹项目展示视频.mp4" type="video/mp4">
-</video>
-```
+<div align="center">
+  <video width="600" controls>
+    <source src="assets/觅迹项目展示视频.mp4" type="video/mp4">
+    您的浏览器不支持视频播放。
+  </video>
+</div>
+
+若不能播放，可以查看`assets/觅迹项目展示视频.mp4`
 
 
 ## 🎯 项目简介
@@ -50,7 +53,9 @@
 - 🎬 **视频识别**: 旅游宣传片、纪录片内容提取
 
 **处理流程:**
-![alt text](assets/处理流程.png)
+<div align="center">
+  <img src="assets/处理流程.png" alt="处理流程" width="600" />
+</div>
 
 ### 2. 内容增强 - 多维度内容扩充
 
@@ -65,7 +70,9 @@
 
 ### 3. 整理流程 - 知识处理管线
 
-![alt text](assets/pipeline.png)
+<div align="center">
+  <img src="assets/pipeline.png" alt="处理流程" width="600" />
+</div>
 
 **处理阶段:**
 1. 📥 **文档加载**: 多格式文档统一处理
@@ -85,7 +92,9 @@
 
 #### 1️⃣ 跨域细节架构
 
-![alt text](assets/智能交互.png)
+<div align="center">
+  <img src="assets/智能交互.png" alt="处理流程" width="600" />
+</div>
 
 #### 2️⃣ 觅迹知识库问答基础设计思路
 
